@@ -1,2 +1,3 @@
 # weather app
-Weather app I built to practice using an API. uses openweathermap API to retrieve weather data.
+* Uses openweathermap API to retrieve weather data.
+* Enter City or City, two digit Country Code. EX: London, GB
